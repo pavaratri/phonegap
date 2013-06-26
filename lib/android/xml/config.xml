@@ -104,4 +104,5 @@
     <!-- Deprecated plugins element. Remove in 3.0 -->
     <plugins>
     </plugins>
+    <plugin name="Notification" value="org.apache.cordova.Notification"/>
 </widget>
